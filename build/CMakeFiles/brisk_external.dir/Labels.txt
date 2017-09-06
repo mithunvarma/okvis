@@ -1,0 +1,13 @@
+# Target labels
+ brisk_external
+# Source files and their labels
+/home/mithun/okviz/build/CMakeFiles/brisk_external
+/home/mithun/okviz/build/CMakeFiles/brisk_external.rule
+/home/mithun/okviz/build/CMakeFiles/brisk_external-complete.rule
+/home/mithun/okviz/build/brisk/src/brisk_external-stamp/brisk_external-install.rule
+/home/mithun/okviz/build/brisk/src/brisk_external-stamp/brisk_external-mkdir.rule
+/home/mithun/okviz/build/brisk/src/brisk_external-stamp/brisk_external-download.rule
+/home/mithun/okviz/build/brisk/src/brisk_external-stamp/brisk_external-update.rule
+/home/mithun/okviz/build/brisk/src/brisk_external-stamp/brisk_external-patch.rule
+/home/mithun/okviz/build/brisk/src/brisk_external-stamp/brisk_external-configure.rule
+/home/mithun/okviz/build/brisk/src/brisk_external-stamp/brisk_external-build.rule

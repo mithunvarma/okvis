@@ -1,0 +1,3 @@
+/home/mithun/okviz/build/brisk/src/brisk_external-build/CMakeFiles/demo.dir
+/home/mithun/okviz/build/brisk/src/brisk_external-build/CMakeFiles/brisk.dir
+/home/mithun/okviz/build/brisk/src/brisk_external-build/agast/CMakeFiles/agast.dir

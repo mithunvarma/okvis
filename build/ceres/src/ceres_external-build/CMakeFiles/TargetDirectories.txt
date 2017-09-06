@@ -1,0 +1,2 @@
+/home/mithun/okviz/build/ceres/src/ceres_external-build/CMakeFiles/uninstall.dir
+/home/mithun/okviz/build/ceres/src/ceres_external-build/internal/ceres/CMakeFiles/ceres.dir
